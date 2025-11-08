@@ -26,6 +26,7 @@ Frameworks: Streamlit, Flask, React, Node.js
 PROJECT EXPERIENCE					
 
 Developer, Personal Website, Tech. Stack: Node.js, React, TypeScript, CSS, HTML				       October 2025 - Present
+
 •	Developing a personal website using Node.js and React in VS Code as a platform to 
   showcase projects and technical skills.
 •	Learning and applying modern web development practices, including responsive design 
@@ -34,6 +35,7 @@ Developer, Personal Website, Tech. Stack: Node.js, React, TypeScript, CSS, HTML	
   HTML and CSS.
 
 Developer, Tic Tac Toe AI, Tech. Stack: C#                                                    August 2025 - August 2025
+
 •	Designed and implemented a Tic Tac Toe game in C# as an exploratory project into other 
   languages. 
 •	Developed three AI difficulty levels by implementing varying levels of board state analysis.
@@ -42,6 +44,7 @@ Developer, Tic Tac Toe AI, Tech. Stack: C#                                      
 •	Gained hands-on experience with C# syntax, debugging, and testing in a practical project.
 
 Co-developer, Communication App, Tech. Stack: MySQL, Flask, Streamlit, Git Bash			           March 2025 - May 2025        
+
 •	Collaborated with a three-member team to develop an app enabling communication between 
   professors, TAs, students, and administrators. Designed and implemented a MySQL database 
   to store and manage dynamic user data.
@@ -49,6 +52,7 @@ Co-developer, Communication App, Tech. Stack: MySQL, Flask, Streamlit, Git Bash	
 •	Developed the front end using Streamlit, creating an interactive and user-friendly interface.
 
 App Developer, StudyBuddy, Tech. Stack: Kotlin, XML, GitHub						                         April 2023 - June 2023
+
 •	Developed a mobile app to support effective learning strategies and foster healthy habits 
   for studying.
 •	Designed UI layouts in XML and implemented the app’s functionality in Kotlin.
@@ -59,12 +63,14 @@ App Developer, StudyBuddy, Tech. Stack: Kotlin, XML, GitHub						               
 WORK EXPERIENCE													
 
 Scheduling Coordinator, Tabletop Roleplaying Club, Boston, MA						                         September 2024 – Present
+
 •	Oversaw scheduling and communications for weekly meetings, optimizing attendance and 
   ensuring seamless event execution.
 •	Partnered with other student organizations to plan and coordinate cross-club events and 
   game nights.
 
 Programmer, Robotics Club, Scranton, PA						                                               September 2022 - June 2024
+
 •	Competed in two FIRST Robotics Competition seasons as part of an 11-member student-led team, 
   contributing to both software and hardware integration.
 •	Programmed in Java, transitioning the drivetrain from Tank Drive to Swerve Drive and 
@@ -76,6 +82,7 @@ Programmer, Robotics Club, Scranton, PA						                                   
   development, debugging, and continuous improvements.
 
 Assistant Researcher, Polygence, Remote						                                                October 2023 - March 2024
+
 •	Collaborated with a PhD candidate to support an independent research project that examined 
   the impact of AI on the job landscape, analyzing historical technological shifts to 
   inform projections.
