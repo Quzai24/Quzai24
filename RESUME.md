@@ -52,7 +52,7 @@ PROJECT EXPERIENCE
 •	Built a Flask REST API to facilitate secure and efficient data retrieval and updates.
 •	Developed the front end using Streamlit, creating an interactive and user-friendly interface.
 
-     App Developer, StudyBuddy, Tech. Stack: Kotlin, XML, GitHub						                      April 2023 - June 2023
+     App Developer, StudyBuddy, Tech. Stack: Kotlin, XML, GitHub						                  April 2023 - June 2023
 
 •	Developed a mobile app to support effective learning strategies and foster healthy habits 
   for studying.
