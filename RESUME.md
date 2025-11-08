@@ -52,7 +52,7 @@ PROJECT EXPERIENCE
 •	Built a Flask REST API to facilitate secure and efficient data retrieval and updates.
 •	Developed the front end using Streamlit, creating an interactive and user-friendly interface.
 
-     App Developer, StudyBuddy, Tech. Stack: Kotlin, XML, GitHub						                  April 2023 - June 2023
+     App Developer, StudyBuddy, Tech. Stack: Kotlin, XML, GitHub						                      April 2023 - June 2023
 
 •	Developed a mobile app to support effective learning strategies and foster healthy habits 
   for studying.
@@ -63,7 +63,7 @@ PROJECT EXPERIENCE
 
 WORK EXPERIENCE													
 
-     Scheduling Coordinator, Tabletop Roleplaying Club, Boston, MA						            September 2024 – Present
+     Scheduling Coordinator, Tabletop Roleplaying Club, Boston, MA						                September 2024 – Present
 
 •	Oversaw scheduling and communications for weekly meetings, optimizing attendance and 
   ensuring seamless event execution.
@@ -82,7 +82,7 @@ WORK EXPERIENCE
 •	Got promoted to Lead Programmer, overseeing a five-member software team and managing code 
   development, debugging, and continuous improvements.
 
-     Assistant Researcher, Polygence, Remote						                                  October 2023 - March 2024
+     Assistant Researcher, Polygence, Remote						                                   October 2023 - March 2024
 
 •	Collaborated with a PhD candidate to support an independent research project that examined 
   the impact of AI on the job landscape, analyzing historical technological shifts to 
