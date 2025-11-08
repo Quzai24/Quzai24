@@ -6,8 +6,7 @@
 
 EDUCATION				
 
-Northeastern University, Boston, MA, May 2028
-     
+     Northeastern University, Boston, MA, May 2028
      Bachelor of Science in Computer Science and Media Arts
      Honors: Dean’s List (Fall 2024), GPA: 3.5 /4.0 
      
