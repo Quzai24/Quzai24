@@ -35,7 +35,7 @@ PROJECT EXPERIENCE
 •	Using the fundamentals of web design with Figma prototyping and translating that into
   HTML and CSS.
 
-     Developer, Tic Tac Toe AI, Tech. Stack: C#                                                         August 2025 - August 2025
+     Developer, Tic Tac Toe AI, Tech. Stack: C#                                                        August 2025 - August 2025
 
 •	Designed and implemented a Tic Tac Toe game in C# as an exploratory project into other 
   languages. 
@@ -44,7 +44,7 @@ PROJECT EXPERIENCE
   for the player.
 •	Gained hands-on experience with C# syntax, debugging, and testing in a practical project.
 
-     Co-developer, Communication App, Tech. Stack: MySQL, Flask, Streamlit, Git Bash			             March 2025 - May 2025
+     Co-developer, Communication App, Tech. Stack: MySQL, Flask, Streamlit, Git Bash			           March 2025 - May 2025
 
 •	Collaborated with a three-member team to develop an app enabling communication between 
   professors, TAs, students, and administrators. Designed and implemented a MySQL database 
