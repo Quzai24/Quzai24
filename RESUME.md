@@ -2,31 +2,33 @@
      avijitsingh704@gmail.com
      (570)-362-8147
      Boston, MA 02120
-     Available: January - July 2026
+     Available: July - Dec 2026
 
 EDUCATION				
 
      Northeastern University, Boston, MA, May 2028
      Bachelor of Science in Computer Science and Media Arts
-     Honors: Dean’s List (Fall 2024), GPA: 3.5 /4.0 
+     Honors: Dean’s List (Fall 2024, Fall 2025), GPA: 3.6 /4.0 
      
      Relevant Courses: 
      •	Algorithms and Data
      •	Object-Oriented Design
      •	Introduction to Databases
      •	Principles of Human-Computer Interaction
-     •	Animation Basics
+     •	Graduate Level Web Development
+     •	Animation 1
+     •	Virtual Environment Design
 
 TECHNICAL SKILLS	
 
-     •	Languages: Java, Kotlin, XML, C#, Python, TypeScript, CSS, HTML, and SQL
+     •	Languages: Java, Kotlin, XML, C#, Python, JavaScript, CSS, HTML, and SQL
      •	Frameworks: Streamlit, Flask, React, Node.js
      •	Tools: Git Bash, GitHub
 
 
 PROJECT EXPERIENCE					
 
-     Developer, Personal Website, Tech. Stack: Node.js, React, TypeScript, CSS, HTML		              October 2025 - Present
+     Developer, Personal Website, Tech. Stack: Node.js, React, JavaScript, CSS, HTML		              October 2025 - Present
 
      •	Developing a personal website using Node.js and React in VS Code as a platform to 
        showcase projects and technical skills.
@@ -63,8 +65,14 @@ PROJECT EXPERIENCE
 
 WORK EXPERIENCE													
 
+     Programmer & Game Animator, Eciton Empire, Boston, MA                                              September 2025 - Present
+     
+     •     Created a 20 minute demo for a narrative driven auto-battler, which was presented at Boston Festival of Indie Games.
+     •     Peer programmed player movement, Collisions, Interactions, and UI integrations in the Unity Game engine.
+     •     Animated pixel art movement and idle animations for character sprites.
+     
      Scheduling Coordinator, Tabletop Roleplaying Club, Boston, MA						                September 2024 – Present
-
+     
      •	Oversaw scheduling and communications for weekly meetings, optimizing attendance and 
        ensuring seamless event execution.
      •	Partnered with other student organizations to plan and coordinate cross-club events and 
